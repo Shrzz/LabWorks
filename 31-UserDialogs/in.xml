@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Author>М. Горький</Author>
+    <BookName>На дне</BookName>
+    <Publisher>Азбука</Publisher>
+    <Year>2018</Year>
+    <TakenDate>06.04.2018</TakenDate>
+    <ReturnDate>20.02.2019</ReturnDate>
+    <CreationDate>2020-02-24T14:40:01.7784224+03:00</CreationDate>
+  </Book>
+  <Book>
+    <Author>Л.Толстой</Author>
+    <BookName>Война и мир</BookName>
+    <Publisher>Литрес</Publisher>
+    <Year>2014</Year>
+    <TakenDate>0</TakenDate>
+    <ReturnDate>0</ReturnDate>
+    <CreationDate>2020-02-24T14:40:01.7784224+03:00</CreationDate>
+  </Book>
+  <Book>
+    <Author>Н. Гоголь</Author>
+    <BookName>Мёртвые души</BookName>
+    <Publisher>Русская классика</Publisher>
+    <Year>2004</Year>
+    <TakenDate>06.03.2013</TakenDate>
+    <ReturnDate>06.03.2024</ReturnDate>
+    <CreationDate>2020-02-24T14:40:01.7784224+03:00</CreationDate>
+  </Book>
+  <Book>
+    <Author>А. Пушкин</Author>
+    <BookName>Капитанская дочка</BookName>
+    <TakenDate>06.06.2019</TakenDate>
+    <ReturnDate>06.06.2018</ReturnDate>
+    <CreationDate>2020-02-24T14:40:01.7784224+03:00</CreationDate>
+  </Book>
+</ArrayOfBook>0001-01-01T00:00:00</CreationDate>
+  </Book>
+</ArrayOfBook>
